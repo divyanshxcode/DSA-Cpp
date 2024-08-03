@@ -7,6 +7,12 @@ int main(){
     int *num; // declearing a pointer
     num = &clase;
 
+    // '&' in eng: "address of"
+    // '*' alone in eng: "variable pointed to by"
+    // '* with int/char': type modifer to pointer
+    int m = sizeof(num);
+
+    cout<<m<<endl; // OP pointer num's value (addrss of clase)
     cout<<&clase<<endl; // OP pointer num's value (addrss of clase)
     cout<<num<<endl; // OP pointer num's value (addrss of clase)
     cout<<&num<<endl; // OP pointer num's itself addess
