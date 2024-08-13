@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    int clase=56;
+    int clase=57;
     int *num; // declearing a pointer
     num = &clase;
 
