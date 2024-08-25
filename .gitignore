@@ -35,6 +35,5 @@
 .vscode
 tempCodeRunnerFile.cpp
 .DS_Store
-pointers
-floats
-array
+
+binaries/
