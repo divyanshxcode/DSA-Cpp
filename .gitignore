@@ -30,6 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Others & Binaries
 .vscode
 tempCodeRunnerFile.cpp
 .DS_Store
+pointers
+floats
+array
